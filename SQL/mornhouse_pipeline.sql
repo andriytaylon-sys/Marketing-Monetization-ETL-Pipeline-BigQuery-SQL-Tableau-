@@ -1,4 +1,4 @@
---1 Consumption unit
+ --1 Consumption unit
 with combined_data as (
 SELECT DATE(date) AS date,
 LOWER(trim(media_source)) AS media_source,
