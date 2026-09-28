@@ -1,4 +1,4 @@
-Tableau Interactive Dashboard / Marketing Monetization
+              Tableau Interactive Dashboard / Marketing Monetization
 
 Інтерактивна вітрина даних та візуалізація ключових маркетингових і монетизаційних метрик проєкту.
 ./(https://public.tableau.com/views/MarketingMonetization/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
